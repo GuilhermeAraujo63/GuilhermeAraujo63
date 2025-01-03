@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do GuilhermeAraujo63 👨‍💻
 
- <div>
+<div>
    <a href="https://github.com/GuilhermeAraujo63">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAraujo63&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAraujo63&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -14,8 +14,9 @@
  
 <br>
  
-### Pra saber mais sobre mim me segue nas redes abaixo!
+### Pra saber mais sobre mim, me segue nas redes abaixo!
  
 <div> 
   <a href="https://www.instagram.com/gui_dev63/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-araujo63/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
